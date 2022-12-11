@@ -4,10 +4,10 @@
   "description": "",
   "main": "webpack.config.js",
   "scripts": {
-    "dev": "webpack --mode development",
+    "dev": "webpack  --mode development",
     "build": "webpack --mode production",
     "watch": "webpack --mode development --watch",
-    "start": "webpack serve --mode development"
+    "start": "webpack  serve --mode development "
   },
   "author": "",
   "license": "ISC",
